@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanu-sharma
 - 👀 I’m interested in web devoloper
 - 🌱 I’m currently learning html,css,java
-- 💞️ I’m looking to collaborate on the company like google,microsoft as an intern
+- 💞️ I’m looking to collaborate with the company like google,microsoft as an intern
 - 📫 How to reach me ...
 
 <!---
