@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanu-sharma
 - 👀 I’m interested in web devolopment
-- 🌱 I’m currently learning html,css,javascript,react
-- 💞️ I’m looking to collaborate with the company like google,microsoft as an intern
+- 🌱 html,css,javascript,react
 - 📫 My linked In- https://www.linkedin.com/in/tanu-sharma-42271a251/
 
 <!---
